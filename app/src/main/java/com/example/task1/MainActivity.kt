@@ -13,7 +13,7 @@ import java.util.*
 
 class MainActivity : AppCompatActivity() {
 
-    val courses = arrayOf("select","Java","Python","Kotlin","C")
+    val courses = arrayOf("","Java","Python","Kotlin","C")
     private var tvSelectedDate :TextView? = null
     private var tvselectdatetime : TextView? = null
     private var btndatetime : Button? = null
